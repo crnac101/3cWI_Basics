@@ -11,7 +11,7 @@ public class Würfelspeil {
 
         Random random = new Random();
         int randomNumber = random.nextInt(6);
-        System.out.println("gewürfelte Zahl des Computers: " + randomNumber);
+        System.out.println("gewürfelteZahl des Computers: " + randomNumber);
 
         Random random2 = new Random();
         int randomNumber2 = random.nextInt(6);
