@@ -8,3 +8,4 @@ import OO.Glowelementlement;
             Glowelement GlowElementThree = new Glowelement("Element green", "green",2, true);
             Glowelement GlowElementFour = new Glowelement("Element yellow", "yellow",4, false);
 }
+
