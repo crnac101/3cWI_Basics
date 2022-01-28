@@ -1,10 +1,7 @@
-public class TicTacToe {
-    public static void main(String[] args) {
-        public class TicTacToe {
-            public static void main(String[] args) {
-                int[][] playgroundTicTacToe = new int[3][3];
-
-                printField(playgroundTicTacToe);
+ public class TicTacToe {
+   public static void main(String[] args) {
+      int[][] playgroundTicTacToe = new int[3][3];
+         printField(playgroundTicTacToe);
 
             }
 
