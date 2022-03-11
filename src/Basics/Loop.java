@@ -1,3 +1,5 @@
+package Basics;
+
 import javax.imageio.plugins.tiff.TIFFImageReadParam;
 
 public class Loop {

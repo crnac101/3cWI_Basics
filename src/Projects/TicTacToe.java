@@ -1,4 +1,6 @@
- public class TicTacToe {
+package Projects;
+
+public class TicTacToe {
    public static void main(String[] args) {
       int[][] playgroundTicTacToe = new int[3][3];
          printField(playgroundTicTacToe);
@@ -21,5 +23,4 @@
             }
 
         }
-    }
-}
+
