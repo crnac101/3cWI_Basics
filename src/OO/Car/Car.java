@@ -1,4 +1,5 @@
-package OO;
+package OO.Car;
+
 import java.util.Scanner;
 
 
@@ -31,7 +32,7 @@ public class Car {
 
     public void brake() {
         String brake;
-        brake = "I am braking";
+        brake = "I am breaking";
         System.out.println(brake);
     }
 
@@ -82,7 +83,7 @@ public class Car {
     }
 
     public Engine getEngine() {
-        return engine;
+        return Engine;
     }
 
     //setters
