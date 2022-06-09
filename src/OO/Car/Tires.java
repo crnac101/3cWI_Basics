@@ -4,6 +4,7 @@ public class Tires {
     private int size;
     private int tyreProfile;
 
+    //hallo
     public Tires(int size, int tyreProfile) {
         this.size = size;
         this.tyreProfile = tyreProfile;
